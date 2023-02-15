@@ -21,6 +21,8 @@ This data set includes information about individual rides made by **Ford GoBike 
 - Member gender.
 - bike_share_for_all_trip.
 
+You can find the dataset on this [link](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv)
+
 
 ## Summary of Findings
 In the exploration, the Ford GoBike sharing system in the San Francisco Bay Area has shown to be a popular mode of transportation with a majority of trips taking less than 30 minutes. This fast and convenient mode of transportation is primarily utilized by subscribers, who make up the majority of the user base, with 75% of users being male. The San Francisco Bay Area is known for its bustling cities, and the popularity of bike sharing reflects this with three main areas of activity identified as San Francisco, Oakland, and San Jose. These cities are home to the three most active bike stations: San Francisco Caltrain Station 2, Market St at 10th St, and Montgomery St BART Station.
