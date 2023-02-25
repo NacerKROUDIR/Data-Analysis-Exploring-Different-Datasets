@@ -5,7 +5,7 @@ This repository contains 3 projects related to the [Data Analysis Nanodegree](ht
 program delivered by **Udacity** and **ALX**. The projects are focused on different aspects of data analysis, including data wrangling, 
 data visualization, and exploratory data analysis.
 
-## [Project 1: Investigate TMDB Movies dataset](https://github.com/NacerKROUDIR/Data-Analysis-Exploring-Different-Datasets/tree/8c27e5417ba6cf81e08eb07087e927270f8c9066/Project%20Investigate%20TMDB%20Movies%20dataset)
+## [Project 1: Investigate TMDB Movies dataset](https://github.com/NacerKROUDIR/Data-Analysis-Exploring-Different-Datasets/tree/main/Project%20Investigate%20TMDB%20Movies%20dataset)
 
 In this project, you can find a jupyter notebook of the data analysis and the corresponding dataset. The purpose of this project is to familiarise 
 yourself with the data analysis process and the jupyter notebook workflow.
